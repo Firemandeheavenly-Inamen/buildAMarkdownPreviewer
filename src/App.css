@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+#preview{
+  display: block;
+  overflow: auto;
+  padding: 5px;
+  line-height: 1.2;
+  min-height: 400px;
+  min-width: 420px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
